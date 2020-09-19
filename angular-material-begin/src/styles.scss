@@ -1,1 +1,66 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/theming';
+@import url('//fonts.googleapis.com/icon?family=Material+Icons');
+@import '../node_modules/@syncfusion/ej2-base/styles/material.css';
+@import '../node_modules/@syncfusion/ej2-layouts/styles/material.css';
+
+@include mat-core();
+
+$primary: mat-palette($mat-lime, 500);
+$accent:  mat-palette($mat-lime, 500, A200, A400);
+$warn:    mat-palette($mat-red, 500);
+
+$config: mat-typography-config();
+
+
+$theme: mat-light-theme($primary, $accent, $warn);
+
+@include angular-material-theme($theme);
+
+body {
+  font-family: mat-font-family($config);
+  font-weight: normal;
+  background: #F6F6F7;
+}
+
+h1, h2, h3, h4 {
+  font-weight: normal;
+}
+section{
+  padding: 0px 100px;
+}
+.navegation {
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  -moz-box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  background: #fff;
+  padding: 0px 100px;
+
+}
+.navegation-b {
+  border-bottom: 1px solid #d4d4d4;
+  -webkit-box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  -moz-box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  box-shadow: 1px 6px 5px 0px rgba(173, 173, 173, 1);
+  margin-bottom: 30px;
+  background: #fff;
+  padding: 0px 100px;
+}
+
+.e-card{
+  width: 200px;
+  height: 200px;
+  margin: 30px;
+  border-radius: 15px;
+  display: inline-block;
+  align-content: center;
+}
+.e-card .e-card-content {
+  color: #000 !important;
+  font-weight: 900;
+  font-size: 1.2em;
+}
+.e-card .e-card-header {
+  flex-direction: inherit !important;
+}
