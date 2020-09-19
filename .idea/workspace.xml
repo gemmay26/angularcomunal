@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e175ed3f-9f84-4242-8c50-3c1e41b3d2ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/i.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/o.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-material-begin/src/assets/img/u.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-material-begin/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/angular-material-begin/src/styles.scss" afterDir="false" />
-    </list>
+    <list default="true" id="e175ed3f-9f84-4242-8c50-3c1e41b3d2ff" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular-material-begin/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -95,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/angular-material-begin/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="153">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -224,18 +208,17 @@
       <option name="presentableId" value="Default" />
       <updated>1600525481006</updated>
       <workItem from="1600525482121" duration="1760000" />
-      <workItem from="1600528315082" duration="7645000" />
+      <workItem from="1600528315082" duration="8698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9405000" />
+    <option name="totallyTimeSpent" value="10458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -249,7 +232,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2875817" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2875817" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -320,15 +303,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-material-begin/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="153">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-material-begin/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
